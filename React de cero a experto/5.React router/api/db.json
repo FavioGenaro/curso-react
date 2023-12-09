@@ -1,0 +1,64 @@
+{
+    "cupcake":[
+        {
+            "id": 1,
+            "sabor": "Vainilla",
+            "color": "Amarillo",
+            "descripcion": "Gran cupcake sabor Vainilla clasica",
+            "precio": 10
+        },
+        {
+            "id": 2,
+            "sabor": "Chocolate",
+            "color": "Marrón",
+            "descripcion": "Gran cupcake sabor Vainilla clasica",
+            "precio": 10,
+            "image": "https://www.glorioustreats.com/wp-content/uploads/2011/07/perfect-vanilla-cupcakes-square.jpg"
+
+        },
+        {
+            "id": 3,
+            "sabor": "Fresa",
+            "color": "Rojo",
+            "descripcion": "Gran cupcake sabor Vainilla clasica",
+            "precio": 10,
+            "image": "https://www.glorioustreats.com/wp-content/uploads/2011/07/perfect-vanilla-cupcakes-square.jpg"
+        },
+        {
+            "id": 4,
+            "sabor": "Fresa",
+            "color": "Rojo",
+            "descripcion": "Gran cupcake sabor Vainilla clasica",
+            "precio": 10,
+            "image": "https://www.glorioustreats.com/wp-content/uploads/2011/07/perfect-vanilla-cupcakes-square.jpg"
+        },
+        {
+            "id": 5,
+            "sabor": "Fresa",
+            "color": "Rojo",
+            "descripcion": "Gran cupcake sabor Vainilla clasica",
+            "precio": 10,
+            "image": "https://www.glorioustreats.com/wp-content/uploads/2011/07/perfect-vanilla-cupcakes-square.jpg"
+        },
+        {
+            "id": 6,
+            "sabor": "Fresa",
+            "color": "Rojo",
+            "descripcion": "Gran cupcake sabor Vainilla clasica",
+            "precio": 10,
+            "image": "https://www.glorioustreats.com/wp-content/uploads/2011/07/perfect-vanilla-cupcakes-square.jpg"
+        }
+    ],
+    "servicios":[
+        {
+            "id":1,
+            "nombre": "Curso de respoteria",
+            "descripcion": "Este es un curso desde cero"
+        },
+        {
+            "id":2,
+            "nombre": "Delivery a toda la ciudad",
+            "descripcion": "Pide desde donde quieras"
+        }
+    ]
+}
