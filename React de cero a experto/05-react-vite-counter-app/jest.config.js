@@ -1,6 +1,6 @@
 // Archivo de configuración de Jest
 module.exports = {
-    // testEnvironment: 'jest-environment-jsdom',
+    testEnvironment: 'jest-environment-jsdom',// debemos instalar la dependencia de jest-environment-jsdom
 
     // busca este archivo, este tiene la importación de whatwg-fetch para que si usamos un versión inferior a node:18
     // use el paquete del archivo en vez del Fetch, porque las versiones anteriores no soportaban fetch de forma nativa.
