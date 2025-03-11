@@ -1,0 +1,4 @@
+html {
+    /* aplica un modo oscuro pirata */
+    filter: invert(1);
+}
